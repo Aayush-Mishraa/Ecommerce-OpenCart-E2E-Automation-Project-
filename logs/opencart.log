@@ -1,0 +1,72 @@
+2025-02-22 20:35:28 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 20:35:28 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 20:35:28 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 20:35:28 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 20:35:28 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 20:35:28 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 21:09:31 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 21:09:31 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 21:09:31 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 21:09:31 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 21:09:31 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 21:09:31 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:26:21 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:21 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:21 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:21 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:26:21 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:26:21 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:26:53 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:53 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:53 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:26:53 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:26:53 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:26:53 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:27:16 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:16 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:16 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:16 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:27:16 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:27:16 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:27:57 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:57 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:57 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:27:57 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:27:57 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:27:57 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:28:51 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:28:51 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:28:51 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:28:51 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:28:51 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:28:51 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:34:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:34:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:34:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:34:26 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:34:26 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:34:26 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:41:45 WARN  DriverFactory:121 - plz pass the right env name...'qa'
+2025-02-22 22:41:45 WARN  DriverFactory:121 - plz pass the right env name...'qa'
+2025-02-22 22:41:45 WARN  DriverFactory:121 - plz pass the right env name...'qa'
+2025-02-22 22:44:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:44:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:44:26 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:44:26 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:44:26 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:44:26 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:47:11 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:47:11 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:47:11 WARN  DriverFactory:99 - no env is passed, hence running test suite on qa env..
+2025-02-22 22:47:11 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:47:11 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:47:11 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:51:13 INFO  DriverFactory:37 - browser name is :edge
+2025-02-22 22:51:13 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:51:13 INFO  DriverFactory:37 - browser name is :firefox
+2025-02-22 22:54:23 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:54:23 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:54:23 INFO  DriverFactory:37 - browser name is :chrome
+2025-02-22 22:54:23 INFO  DriverFactory:30 - ==Running in Headless Mode==
+2025-02-22 22:54:23 INFO  DriverFactory:30 - ==Running in Headless Mode==
+2025-02-22 22:54:23 INFO  DriverFactory:30 - ==Running in Headless Mode==
